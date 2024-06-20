@@ -1,12 +1,12 @@
 
-/abc/node_modules
+/mainBD/node_modules
 /worker/node_modules
 /websocketWorker/node_modules
 
 
 
 
-/abc/.env
+/mainBD/.env
 
 
 
