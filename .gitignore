@@ -1,0 +1,18 @@
+
+/abc/node_modules
+/worker/node_modules
+/websocketWorker/node_modules
+
+
+
+
+/abc/.env
+
+
+
+/worker/dist
+/websocketWorker/dist
+# /worker/build
+# /websocketworker/build
+
+
